@@ -10,10 +10,10 @@ module.exports = {
     SESSION_ID:            process.env.SESSION_ID || "",
     // PREFIX supports comma-separated list: ".,!,/,?"
     // Use "any" to accept any leading symbol, or "" / "none" for no prefix
-    PREFIX:                process.env.PREFIX || ".",
+    PREFIX:                process.env.PREFIX || ". ,",
     BOT_NAME:              process.env.BOT_NAME || "Silva MD",
-    OWNER_NUMBER:          process.env.OWNER_NUMBER || "254700143167",
-    OWNER_NAME:            process.env.OWNER_NAME || "Silva MD",
+    OWNER_NUMBER:          process.env.OWNER_NUMBER || "4915511 034702",
+    OWNER_NAME:            process.env.OWNER_NAME || "≛⃝ᗩᗪᖇIᗴᑎ🦂🕸️🕷️༒︎",
     DESCRIPTION:           process.env.DESCRIPTION || "Silva MD Bot",
     ALIVE_IMG:             process.env.ALIVE_IMG || "https://files.catbox.moe/5uli5p.jpeg",
     LIVE_MSG:              process.env.LIVE_MSG || "Silva MD is active",
